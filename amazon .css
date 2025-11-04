@@ -97,3 +97,46 @@ span{
     font-size: 0.85rem;
     font-weight: 700;
 }
+.pannel{
+    height: 40px;
+    background-color: #232f3e;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.pannel-ops p{
+    display: inline;
+    margin-left: 10px;
+}
+.pannel-ops{
+    width: 70%;
+    font-size: 0.85rem;
+}
+.deals{
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+.hero-section{
+    background-image: url("amzn\ hero\ 1.jpg");
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.hero-massage{
+    background-color: white;
+    color: black;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    width: 80%;
+    margin-bottom: 60px;
+}
+.hero-massage p a{
+    color: #00857c;
+    text-decoration: none;
+}
