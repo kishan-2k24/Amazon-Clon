@@ -82,3 +82,14 @@
     border-top-right-radius: 4px;
     color: #0f1111;
 }
+.nav-search:hover{
+    border: 2px solid #febd68;
+}
+span{
+    font-size: 0.85rem;
+    color: #cccccc;
+    font-weight: 700;
+}
+.nav-cart i{
+    
+}
