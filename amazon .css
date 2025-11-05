@@ -180,3 +180,81 @@ footer{
     font-size: 1rem;
     cursor: pointer;
 }
+.foot-pannel2{
+    background-color: #222f3d;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+ul a{
+    display: flex;
+    text-decoration: none;
+    font-size: 0.85rem;
+    margin-top: 20px;
+    color: #dddddd;
+}
+.foot-pannel3{
+    height: 70px;
+    background-color: #37475a;
+    color: white;
+    border-top: 0.5px solid white;
+}
+.foot-logo{
+    height: 50px;
+    width: 100px;
+    background-image: url("amazon\ logo.png");
+    background-size: cover;
+    margin-left: 20px;
+}
+.foot-language{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    margin-left: 40%;
+}
+.foot-language select{
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.foot-language i{
+    font-size: 20px;
+    margin-right: 10px;
+}
+.foot-currency{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    margin-left: 20px;
+}
+.foot-currency select{
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+.foot-currency i{
+    font-size: 20px;
+    margin-right: 10px;
+}
+select{
+    background-color: #37475a;
+    color: white;
+}
+.foot-country{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    margin-left: 20px;
+}
+.foot-country i{
+    font-size: 20px;
+    margin-right: 10px;
+}
+.foot-country select{
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+
+
