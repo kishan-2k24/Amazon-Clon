@@ -137,6 +137,29 @@ span{
     margin-bottom: 60px;
 }
 .hero-massage p a{
-    color: #00857c;
+    color: #007185;
     text-decoration: none;
+}
+.shop-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+}
+.Box{
+    border: 2px solid black;
+    height: 200px;
+    width: 23%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.box-img{
+    height: 130px;
+    width: 100%;
+    background-image: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
 }
